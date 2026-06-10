@@ -92,6 +92,7 @@ const japs = {
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![PayMongo](https://img.shields.io/badge/PayMongo-21BF73?style=flat-square&logo=paymongo&logoColor=white)
 
 ---
 
