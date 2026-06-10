@@ -26,7 +26,7 @@ const japs = {
   location: "Valenzuela, Philippines",
   focus:    "DevOps — Git/GitLab, Docker, AWS",
   learning: ["AI prompting (Claude)", "harness engineering"],
-  motto:    "I don't know anything, but I can learn it.",
+  motto:    "I don't know everything, but I can learn it.",
 };
 ```
 
@@ -69,6 +69,7 @@ const japs = {
 **DevOps & Cloud**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
@@ -114,7 +115,7 @@ const japs = {
 
 <div align="center">
 
-<sub><i>"I don't know anything, but I can learn it."</i></sub>
+<sub><i>"I don't know everything, but I can learn it."</i></sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer" alt="footer" />
 
